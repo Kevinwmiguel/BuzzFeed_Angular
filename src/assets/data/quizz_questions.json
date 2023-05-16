@@ -1,0 +1,119 @@
+{
+  "title":"Perguntas e respostas de conhecimentos gerais!",
+  "questions":[
+    {
+      "id":1,
+      "question": "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue ?",
+      "options":[
+        {"id": 1, "name":"Tem entre 2 a 4 litros. São retirados 450 mililitros", "alias":"B"},
+        {"id": 2, "name":"Tem entre 4 a 6 litros. São retirados 450 mililitros", "alias":"A"},
+        {"id": 3, "name":"Tem 10 litros. São retirados 2 litros", "alias":"B"},
+        {"id": 4, "name":"Tem 7 litros. São retirados 1,5 litros", "alias":"B"},
+        {"id": 5, "name":"Tem 0,5 litros. São retirados 0,5 litros", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "De quem é a famosa frase “Penso, logo existo” ?",
+      "options":[
+        {"id": 1, "name":"Platão", "alias":"B"},
+        {"id": 2, "name":"Galileu Galilei", "alias":"B"},
+        {"id": 3, "name":"Descartes", "alias":"A"},
+        {"id": 4, "name":"Sócrates", "alias":"B"},
+        {"id": 5, "name":"Francis Bacon", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "options":[
+        {"id": 1, "name":"França", "alias":"B"},
+        {"id": 2, "name":"Inglaterra", "alias":"B"},
+        {"id": 3, "name":"Brasil", "alias":"A"},
+        {"id": 4, "name":"Austrália", "alias":"B"},
+        {"id": 5, "name":"Itália", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Quais o menor e o maior país do mundo ?",
+      "options":[
+        {"id": 1, "name":"Vaticano e Rússia", "alias":"A"},
+        {"id": 2, "name":"Nauru e China", "alias":"B"},
+        {"id": 3, "name":"Mônaco e Canadá", "alias":"B"},
+        {"id": 4, "name":"Malta e Estados Unidos", "alias":"B"},
+        {"id": 5, "name":"São Marino e Índia", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+      "options":[
+        {"id": 1, "name":"O Senhor dos Anéis", "alias":"B"},
+        {"id": 2, "name":"Dom Quixote", "alias":"A"},
+        {"id": 3, "name":"O Pequeno Príncipe", "alias":"B"},
+        {"id": 4, "name":"Ela, a Feiticeira", "alias":"B"},
+        {"id": 5, "name":"Um Conto de Duas Cidades", "alias":"B"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+      "options":[
+        {"id": 1, "name":"Jânio Quadros", "alias":"B"},
+        {"id": 2, "name":"Jacinto Anjos", "alias":"B"},
+        {"id": 3, "name":"Getúlio Vargas", "alias":"B"},
+        {"id": 4, "name":"João Figueiredo", "alias":"B"},
+        {"id": 5, "name":"João Goulart", "alias":"A"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Qual o grupo em que todas as palavras foram escritas corretamente?",
+      "options":[
+        {"id": 1, "name":"Asterístico, beneficiente, meteorologia, entertido", "alias":"A"},
+        {"id": 2, "name":"Asterisco, beneficente, meteorologia, entretido", "alias":"B"},
+        {"id": 3, "name":"Asterisco, beneficente, metereologia, entretido", "alias":"B"},
+        {"id": 4, "name":"Asterístico, beneficiente, metereologia, entretido", "alias":"B"},
+        {"id": 5, "name":"Asterisco, beneficiente, metereologia, entretido", "alias":"B"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "Quantas casas decimais tem o número pi?",
+      "options":[
+        {"id": 1, "name":" Duas", "alias":"B"},
+        {"id": 2, "name":"Centenas", "alias":"B"},
+        {"id": 3, "name":"Infinitas", "alias":"A"},
+        {"id": 4, "name":"Vinte", "alias":"B"},
+        {"id": 5, "name":"Milhares", "alias":"B"}
+      ]
+    },
+    {
+      "id":9,
+      "question": "Atualmente, quantos elementos químicos a tabela periódica possui?",
+      "options":[
+        {"id": 1, "name":"113", "alias":"B"},
+        {"id": 2, "name":"109", "alias":"B"},
+        {"id": 3, "name":"108", "alias":"B"},
+        {"id": 4, "name":"118", "alias":"A"},
+        {"id": 5, "name":"92", "alias":"B"}
+      ]
+    },
+    {
+      "id":10,
+      "question": "Quanto tempo a luz do Sol demora para chegar à Terra?",
+      "options":[
+        {"id": 1, "name":"12 minutos", "alias":"B"},
+        {"id": 2, "name":"1 dia", "alias":"B"},
+        {"id": 3, "name":"12 horas", "alias":"B"},
+        {"id": 4, "name":"8 minutos", "alias":"A"},
+        {"id": 5, "name":"12 segundos", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "✨!!Parabens!!✨ Foi até que bem!",
+    "B": "❌!!Estude Mais!!❌"
+  }
+}
